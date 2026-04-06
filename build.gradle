@@ -1,0 +1,74 @@
+buildscript {
+    repositories {
+        jcenter()  // 添加jcenter
+        maven { url = "https://files.minecraftforge.net/maven" }
+        maven { url = "https://maven.minecraftforge.net/" }  // Forge新地址
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'net.minecraftforge.gradle:ForgeGradle:2.3-SNAPSHOT'
+    }
+}
+
+apply plugin: 'net.minecraftforge.gradle.forge'
+apply plugin: 'eclipse'
+
+version = "1.0"
+group = "com.example.Eternal Abyss"
+archivesBaseName = "Eternal Abyss"
+
+sourceCompatibility = targetCompatibility = '1.8'
+compileJava {
+    sourceCompatibility = targetCompatibility = '1.8'
+    options.encoding = 'UTF-8'
+}
+
+minecraft {
+    version = "1.12.2-14.23.5.2847"
+    runDir = "run"
+    mappings = "stable_39"
+    makeObfSourceJar = false
+    clientRunArgs += [
+            "--assetsDir", "D:/Scrolls/Scrolls/run/assets",
+            "--assetIndex", "1.12"
+    ]
+}
+
+// ========== 添加这个关键的 repositories 块 ==========
+repositories {
+    mavenCentral()
+    maven { url = "https://files.minecraftforge.net/maven" }
+    maven { url = "https://maven.minecraftforge.net/" }
+    maven { url = "https://libraries.minecraft.net/" }
+    maven { url = "https://repo.spongepowered.org/maven"}
+
+    flatDir { dirs 'libs' }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile files('libs/`FermiumBooter-1.2.0.jar')
+}
+
+processResources {
+    inputs.property "version", project.version
+    inputs.property "mcversion", project.minecraft.version
+
+    from(sourceSets.main.resources.srcDirs) {
+        include 'mcmod.info'
+        expand 'version': project.version, 'mcversion': project.minecraft.version
+    }
+    from(sourceSets.main.resources.srcDirs) {
+        exclude 'mcmod.info'
+    }
+}
+jar {
+    manifest {
+        attributes(
+                'FMLCorePlugin': 'com.zzt.eternal_abyss.core.MixinLoader',
+                'FMLCorePluginContainsFMLMod': 'true'
+        )
+    }
+}
+
+

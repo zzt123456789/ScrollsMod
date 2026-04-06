@@ -1,0 +1,15 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+
+  "package": "com.zzt.eternal_abyss.mixin",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_8",
+
+  "mixins": [
+    "MixinEV",
+    "MixinHeartbeatHandler"
+  ],
+
+  "verbose": true
+}

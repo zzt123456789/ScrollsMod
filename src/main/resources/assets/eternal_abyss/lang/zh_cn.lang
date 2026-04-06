@@ -1,0 +1,275 @@
+# 物品名称
+item.catastrophe_scroll.name=图标
+item.experience_attraction_scroll.name=§l§e虚空吞噬之戒
+tile.auto_anvil.name=自动铁砧
+item.depth_ring.name=§l§8深渊之戒
+item.villager_unlocker.name=§l§4❥§r §5村民调教器~
+item.luckify_scroll.name=§l§6幸运卷轴
+item.luck_modifier.name=§l§e幸运值测试工具
+item.abyssal_essence.name=§l§8深渊源质
+item.wailing_core.name=§l§3哀鸣之核
+item.insane_abyss_dice.name=§l§3狂渊骰子
+item.clover.name=幸运四叶草
+tile.xp_drain.name=经验地漏
+item.void_artifact.name=§l§8永恒深渊之庇佑
+item.the_twisted_fate.name=§l§3    逆命荆棘之冠
+item.the_diminished_shade.name=§l§3    灭蚀唤影之心
+item.the_abyssal_cognition.name=§l§3    怒渊智蚀之伤
+item.the_arcane_annihilation.name=§l§3    奥法湮灭之戒
+item.the_sorrowed_shriek.name=§l§3    逸渊悲鸣之护
+
+#额外饰品
+item.yuwan_ring.name=§1 失温
+
+item.supernova.name=§l§3超新星
+
+effect.sword_qi=§e超§g位§6崩§4解
+
+#额外物品
+item.record_bag.name=§3§k126§r§b§l 无余霁楽的唱片包 §r§3§k156
+
+
+# Exoblade
+tooltip.exoblade.description1=§6左键攻击时发射4道§d可追踪§6剑气。剑刃造成100%%范围伤害，无限穿透
+tooltip.exoblade.description2=§6剑气造成§d35%%§6伤害，存在一段时间后获得§d追踪能力§6，命中实体4次后消失
+tooltip.exoblade.description3=§6剑气命中后会造成 §e超§g位§6崩§4解
+
+#Supernova
+tooltip.supernova.description1=§6右键点击掷出一枚§d全自动追踪§6最近敌怪的炸弹
+tooltip.supernova.description2=§6每颗炸弹都会产生一颗微型超新星，它会牵引怪物
+tooltip.supernova.description3=§6长按右键蓄力并掷出一枚§d全自动追踪§6最近敌怪的炸弹
+tooltip.supernova.description4=§6蓄力后发射的炸弹造成更高的伤害以及更大的影响范围
+tooltip.supernova.description5=§6伤害会随着距离中心§c衰减
+tooltip.supernova.description6=§6炸弹命中后会造成 §e超§g位§6崩§4解
+
+
+
+
+# 创意标签名称（可选）
+itemGroup.eternal_abyss=§l§8深渊造物
+
+tooltip.eternal_abyss.experience_attraction_scroll.desc=§l§6能快速吸收玩家周围掉落的§l§a经验球§l§6以及§l§d掉落物
+
+
+tooltip.eternal_abyss.pref=§7必须佩戴§8深渊之戒
+
+
+tooltip.eternal_abyss.add= §d增加
+tooltip.eternal_abyss.luckify1= §d近战伤害
+tooltip.eternal_abyss.luckify2= §d箭矢伤害
+tooltip.eternal_abyss.luckify3= §d闪避率
+tooltip.eternal_abyss.luckify4=§5这些效果将乘以你当前
+tooltip.eternal_abyss.luckify5=§5拥有的幸运值
+tooltip.eternal_abyss.luckify6=§d当前效果：
+tooltip.eternal_abyss.luckify7=§3深渊已为此饰品提供祝福，全部效果获得 §e2.0×
+
+
+tooltip.eternal_abyss.holdShift=§f按住 §r§e§lShift §r§f查看更多信息
+tooltip.eternal_abyss.holdAlt=§f按住 §r§e§lAlt §r§f查看更多信息
+
+
+
+tooltip.wailing_core.brief=§3深渊之外壳
+tooltip.wailing_core.holdShift=§f按住 §r§e§lShift §r§f查看更多信息
+
+tooltip.wailing_core.details1=§7▸ 当前状态效果：
+tooltip.wailing_core.details2=§d受到伤害时，将其中§c10%%§d转化为§5虚空伤害§d，忽略护甲
+tooltip.wailing_core.details3=§d有§a30%%§d概率§d反弹敌人§c111%%§d的伤害作为§5虚空伤害§d
+tooltip.wailing_core.details12=§d此次受到的伤害将以§b20§d倍存储下来，强化自身攻击
+
+tooltip.wailing_core.details5=§e▸ 哀鸣怨影：
+tooltip.wailing_core.details6=§d你造成的伤害额外附带§c10%%§d§5虚空伤害§d，忽略护甲
+tooltip.wailing_core.details7=§d受到伤害时，有§a60%%§d概率§d反弹§c333%%§d的敌人伤害为虚空伤害，并获得§a1.5秒§d无敌时间
+tooltip.wailing_core.details11=§6§l当前存储伤害：§c%d
+tooltip.wailing_core.details13=§d佩戴时§e免疫§d灭蚀唤影的§c仇恨吸引§d效果
+
+
+tooltip.wailing_core.details9=§3· §9护甲§a+100%%
+tooltip.wailing_core.details8=§3· §9盔甲韧性§a+50%%
+tooltip.wailing_core.details10=§8在获得第三深渊祝福 §5怨影缠身§7 后获得增强
+
+
+
+tooltip.insane_dice.brief=§7蕴藏机遇与混沌的骰子
+tooltip.insane_dice.holdShift=§f按住 §r§e§lShift §r§f查看更多信息
+
+tooltip.insane_dice.details4=§7▸ §a+6 §7攻击伤害
+
+tooltip.insane_dice.details1=§7▸ 混沌机遇：
+tooltip.insane_dice.details2=§d你攻击时有§a基础§e20%%§d几率造成§c双倍伤害§d
+tooltip.insane_dice.details3=§7触发几率将根据幸运值提升
+
+tooltip.insane_dice.details5=§d若触发双倍伤害，将对§a目标附近敌人§d造成等额§c横扫攻击
+tooltip.insane_dice.details6=§7横扫伤害为§e主目标最终伤害§7的§c100%%§7
+
+
+tooltip.insane_dice.details8=§7此饰品不受诅咒影响，触发纯粹依赖§a幸运§7与§8概率
+tooltip.insane_dice.details9=§7横扫伤害受益于§5暴击增伤§7等效果叠加
+
+
+# Void Artifact
+tooltip.void_artifact.desc1=§l§8深渊将永远庇护至高之人
+tooltip.void_artifact.line1=§7  免疫§4火焰§7、§c岩浆§7、§e爆炸§7、§8窒息§7、§9溺水§7、§7坠落§7、§5虚空§7、§2仙人掌§7等伤害
+tooltip.void_artifact.line2=§7  你在受到两次攻击后获得更长的无敌帧
+tooltip.void_artifact.line3=§7  你将免疫一切负面效果，并且可以高速飞行
+tooltip.void_artifact.line4=§7  被动移除周围的蜘蛛网，水下呼吸，熄灭自身火焰
+tooltip.void_artifact.line5=§7  移除爆炸造成的视觉效果
+tooltip.void_artifact.line6=§7  在主世界你将获得§666%%§7免伤
+tooltip.void_artifact.line7=§7  在地狱将获得§633%%§7免伤
+tooltip.void_artifact.line8=§7  在末地将获得§611%%§7免伤
+tooltip.void_artifact.line9=§7  在其他维度将获得§615%%§7免伤
+tooltip.void_artifact.line10=§7  在主世界的白天永久§a饱和§7与§a抗性§7并持续§b再生§7、§e幸运§7
+tooltip.void_artifact.line11=§7  在主世界的夜晚获得§b夜视§7、§6急迫§7、§d发光§7、§e幸运§7与更强的§c再生
+tooltip.void_artifact.line12=§7  你§6万法不侵
+tooltip.void_artifact.line13=§7  一般怪物无法以你为攻击目标
+
+tooltip.void_artifact.hold_shift=§f按住 §r§e§lShift §r§f查看更多信息
+tooltip.void_artifact.hold_alt=§f按住 §r§6§lAlt §r§f查看更多额外信息
+
+tooltip.void_artifact.alt.line1=§7你踏尽深渊，彼岸花终在尽头为你盛开
+tooltip.void_artifact.alt.line2=§7回望来路，那一片猩红，是对你苦旅的最高赞叹
+
+
+
+# The Twisted Fate
+tooltip.eternal_abyss.twisted_fate.brief=§l§4「带上荆棘之冠，逆转汝之命运」
+
+tooltip.eternal_abyss.twisted_fate.line1=§d幸运值增加§a10§d，无视第五诅咒§c厄运不断
+tooltip.eternal_abyss.twisted_fate.line2=§d当前生命值被锁定为§c20%%。
+tooltip.eternal_abyss.twisted_fate.line3=§3· §d幸运值§a+100%%
+tooltip.eternal_abyss.twisted_fate.line4=§d每点幸运值增加§a3%%§4暴击率
+tooltip.eternal_abyss.twisted_fate.line5=§d当前获得的§4暴击率 §a%.2f%%
+
+
+# The Diminished Shade
+tooltip.eternal_abyss.diminished_shade.brief=§l§9「沉入虚影深渊，献上不灭之心」
+
+tooltip.eternal_abyss.diminished_shade.line1=§3· §d最大生命值§a+100%%§d
+tooltip.eternal_abyss.diminished_shade.line2=§d每§b3§d点最大生命值减少§e1%%§c虚空腐蚀§d的影响，最高减少到§e10%%
+tooltip.eternal_abyss.diminished_shade.line3=§b50§d格以内的敌对生物会将你视为§c优先目标
+tooltip.eternal_abyss.diminished_shade.line4=§d每§b6§d点已损失生命值增加§a9%%§4暴击伤害§d
+tooltip.eternal_abyss.diminished_shade.line5=§d当前获得的§4暴击伤害 §a%.2f%%
+tooltip.eternal_abyss.diminished_shade.line6=§d装备时转化§c恐怖生物§d造成的§c穿透伤害§d为普通物理伤害
+
+
+# THE_ABYSSAL_COGNITION
+tooltip.eternal_abyss.abyssal_cognition.brief=§l§3「窥觊深渊之力，必承心智之蚀」
+
+tooltip.eternal_abyss.abyssal_cognition.line1=§d所有§5攻击属性提升§a100%%
+tooltip.eternal_abyss.abyssal_cognition.line2=§d每秒消耗§b100§d点经验
+tooltip.eternal_abyss.abyssal_cognition.line3=§d经验不足将受到§c10§5虚空伤害§d（忽略护甲）
+tooltip.eternal_abyss.abyssal_cognition.line4=§3· §4暴击率§a+100%%
+tooltip.eternal_abyss.abyssal_cognition.line6=§3· §4暴击伤害§a+50%%
+tooltip.eternal_abyss.abyssal_cognition.line5=§d当前剩余经验 §e%d
+
+
+# The_Arcane_Annihilation
+tooltip.eternal_abyss.arcane_annihilation.brief=§6「灵能汇聚深渊之力，化物质为纯粹能量」
+
+tooltip.eternal_abyss.arcane_annihilation.line1=§a经验吸附：§e按下§bX§e键开启
+tooltip.eternal_abyss.arcane_annihilation.line2=§7物品湮灭：§e按下§bZ§e键开启
+tooltip.eternal_abyss.arcane_annihilation.line3=§8湮灭转换：
+tooltip.eternal_abyss.arcane_annihilation.line4= §d击杀生物时湮灭掉落物，并根据掉§b落物数量§d获得额外经验
+tooltip.eternal_abyss.arcane_annihilation.line7= §d经验值能提供§5魔法伤害§d和§5魔抗§d加成
+tooltip.eternal_abyss.arcane_annihilation.magic_damage=§3· §5魔法伤害加成：§a+%s%%
+tooltip.eternal_abyss.arcane_annihilation.magic_shield=§3· §5魔法抗性加成：§a+%s
+tooltip.eternal_abyss.arcane_annihilation.xp=§e当前累积经验：§6%s
+
+
+# The_Sorrowed_Shriek
+tooltip.eternal_abyss.sorrowed_shriek.brief=§2「劫散浮奢归于虚渊，施予纤命踏向苍穹」
+
+tooltip.eternal_abyss.sorrowed_shriek.line1=§8悲鸣：
+tooltip.eternal_abyss.sorrowed_shriek.line2= §d与§b村民§d和§b流浪商人§d交易时会使得他们受到§c悲鸣§d影响，售价§e减半
+tooltip.eternal_abyss.sorrowed_shriek.line3=§3· §b移动速度§a+50%%
+tooltip.eternal_abyss.sorrowed_shriek.line4=§3· §b箭矢伤害§a+100%%
+tooltip.eternal_abyss.sorrowed_shriek.line5=§3· §b挖掘速度§a+100%%
+
+
+
+
+
+
+
+# 基础提示
+tooltip.depth_ring.flavor=§7一个承载深渊意志的指环
+tooltip.depth_ring.desc1=§l§7一旦带上，深渊的命运将§c永远§7与你纠缠
+tooltip.depth_ring.hold_shift=§f按住 §r§e§lShift §r§f查看更多信息
+tooltip.depth_ring.footer=§8 承受深渊的压制，最终获将得深渊的庇护
+tooltip.void_artifact.equipping=§l§6佩戴时:
+
+# ========== 攻击攻速 ==========
+tooltip.depth_ring.damage.title_unreversed=§c▸ 苦痛压制
+tooltip.depth_ring.damage.negative1=§8✧ §d攻击伤害 §c-%d%%
+tooltip.depth_ring.damage.negative2=§8✧ §d攻击速度 §c-%d%%
+tooltip.depth_ring.damage.progress_unreversed=§7▸ 击杀 %s : §c%d§8/§6%d
+
+tooltip.depth_ring.damage.title_reversed=§a▸
+tooltip.depth_ring.damage.positive1=§6✦ §d攻击伤害
+tooltip.depth_ring.damage.positive2=§6✦ §d攻击速度
+tooltip.depth_ring.damage.progress_reversed=§7▸ 已击杀 %s §6%d
+
+# ========== 经验 ==========
+tooltip.depth_ring.exp.title_unreversed=§c▸ 知识侵蚀
+tooltip.depth_ring.exp.negative1=§8✧ §d经验获取 §c-%d%%
+tooltip.depth_ring.exp.progress_unreversed=§7▸ 击杀 %s : §c%d§8/§6%d
+
+tooltip.depth_ring.exp.title_reversed=§a▸
+tooltip.depth_ring.exp.positive1=§6✦ §d经验获取概率提升，§d有概率获得更多经验
+tooltip.depth_ring.exp.progress_reversed=§7▸ 已击杀 %s §6%d
+
+# ========== 怨影缠身 ==========
+tooltip.depth_ring.haunted.title_unreversed=§c▸ 怨影缠身
+tooltip.depth_ring.haunted.negative1=§8✧ §d移动速度 §c-%d%%
+tooltip.depth_ring.haunted.negative2=§8✧ §d怪物感知距离 §c+%d 格
+tooltip.depth_ring.haunted.progress_unreversed=§7▸ 击杀 %s : §c%d§8/§6%d
+
+tooltip.depth_ring.haunted.title_reversed=§a▸
+tooltip.depth_ring.haunted.positive1=§6✦ §d移动速度 §6+%d%%
+tooltip.depth_ring.haunted.positive2=§6✦ §d移动速度将为你提供额外的§6箭矢速度
+tooltip.depth_ring.haunted.progress_reversed=§7▸ 已击杀 %s §6%d
+
+# ========== 深渊护体 ==========
+tooltip.depth_ring.haunted.title_unreversed_elemtnt=§c▸ 虚空腐蚀
+tooltip.depth_ring.haunted.negative1_elemtnt=§8✧ §d受到的伤害最少为最大生命值的§c%d%%
+tooltip.depth_ring.haunted.progress_unreversed_elemtnt=§7▸ 击杀 %s : §c%d§8/§6%d
+
+tooltip.depth_ring.haunted.title_reversed_elemtnt=§a▸
+tooltip.depth_ring.haunted.positive1_elemtnt=§6✦ §d基础减伤§6%d%%§d，并有§6%d%%§d概率闪避，每反转一个诅咒额外获得§6%d%%§d减伤与§6%d%%§d闪避
+tooltip.depth_ring.haunted.positive1_elemtnt2=§6✦ §d当前概率为：§e伤害减免 %d%% 格挡概率 %d%%
+tooltip.depth_ring.haunted.progress_reversed_elemtnt=§7▸ 已击杀 %s §6%d
+
+# ========== 幸运 ==========
+tooltip.depth_ring.haunted.title_unreversed_luck=§c▸ 厄运不断
+tooltip.depth_ring.haunted.negative1_luck=§8✧ §d无法获得任何§c幸运值
+tooltip.depth_ring.haunted.progress_unreversed_luck=§7▸ 食用 %s : §c%d§8/§6%d
+
+tooltip.depth_ring.haunted.title_reversed_luck=§a▸
+tooltip.depth_ring.haunted.positive1_luck=§6✦ §d幸运§6 +5§d，每5幸运会增加§633%%§d的掉落物数量
+tooltip.depth_ring.haunted.progress_reversed_luck=§7▸ 已食用 %s §6%d
+
+# ========== 终极 ==========
+tooltip.depth_ring.final.title_unreversed_ultimate=§c▸ 最终的挑战
+tooltip.depth_ring.final.kill1=§8✧ §8击杀: §c%d
+
+tooltip.depth_ring.final.title_reversed_ultimate=§a▸ 最终的挑战
+tooltip.depth_ring.final.kill2=§6✦ §7击杀: §6%d
+
+
+
+item.clover.tooltip1=§e破坏草概率获得
+item.clover.tooltip2=§e§l可食用，获得§d幸运V
+
+
+
+death.attack.abyss_sweep=%1$s 被深渊吞噬了
+death.attack.supernova_magic=%1$s 被超新星湮灭
+
+key.categories.eternal_abyss=深渊造物
+key.eternal_abyss.toggle_item_collect=切换物品收集
+key.eternal_abyss.toggle_xp_collect=切换经验收集
+entity.eternal_abyss.sword_qi=剑气
+
+quality.critboost.name=深渊回响
+attribute.name.eternal_abyss.crit_chance=暴击率
+attribute.name.eternal_abyss.crit_damage=暴击伤害

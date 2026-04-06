@@ -1,0 +1,40 @@
+{
+  "exoblade_swing": {
+    "category": "players",
+    "sounds": [
+      { "name": "eternal_abyss:exoblade_swing_1" },
+      { "name": "eternal_abyss:exoblade_swing_2" },
+      { "name": "eternal_abyss:exoblade_swing_3" }
+    ]
+  },
+  "crit_hit": {
+    "category": "players",
+    "sounds": [
+      { "name": "eternal_abyss:crit" }
+    ]
+  },
+  "parry": {
+    "category": "players",
+    "sounds": [
+      { "name": "eternal_abyss:parry" }
+    ]
+  },
+  "supernova_charge": {
+    "category": "players",
+    "sounds": [
+      { "name": "eternal_abyss:supernova_charge" }
+    ]
+  },
+  "supernova_explode": {
+    "category": "players",
+    "sounds": [
+      { "name": "eternal_abyss:supernova_boom" }
+    ]
+  },
+  "target_found": {
+    "category": "players",
+    "sounds": [
+      { "name": "eternal_abyss:target_found" }
+    ]
+  }
+}

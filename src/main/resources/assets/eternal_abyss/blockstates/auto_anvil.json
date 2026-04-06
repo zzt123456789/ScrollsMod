@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "normal":  { "model": "eternal_abyss:auto_anvil" },
+    "inventory": { "model": "eternal_abyss:auto_anvil" }
+  }
+}

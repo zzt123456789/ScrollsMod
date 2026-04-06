@@ -1,0 +1,41 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "eternal_abyss:items/exoblade_handheld"
+  },
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [0, 90, 22.5],
+      "translation": [-4, 17.5, 0],
+      "scale": [2, 2, 0.5]
+    },
+    "firstperson_lefthand": {
+      "rotation": [0, -90, -22.5],
+      "translation": [-4, 17.5, 0],
+      "scale": [2, 2, 0.5]
+    },
+
+    "thirdperson_righthand": {
+      "rotation": [0, 90, 55],
+      "translation": [0, 33.5, 6],
+      "scale": [10, 10, 0.9]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [0, -90, -55],
+      "translation": [0, 33.5, 6],
+      "scale": [10, 10, 0.9]
+    },
+
+
+    "ground": {
+      "rotation": [0, 0, 0],
+      "translation": [10, 33.5,0 ],
+      "scale": [5, 5, 0.9]
+    },
+    "gui": {
+      "rotation": [15, -25, -5],
+      "translation": [5, 5, 10],
+      "scale": [2, 2, 0.5]
+    }
+  }
+}
